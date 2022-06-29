@@ -1,3 +1,3 @@
 export function func1(){
-  return "func-2000"
+  return "main-1.0.0"
 }
