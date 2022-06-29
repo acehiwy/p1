@@ -1,3 +1,3 @@
 export function func1(){
-  return "main-1.0.1"
+  return "f-2.0.1"
 }
