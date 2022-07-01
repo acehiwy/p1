@@ -3,5 +3,5 @@ export function func1(){
 }
 
 export function main(){
-  return "main-a-b-5"
+  return "main-a-b-6"
 }
